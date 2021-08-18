@@ -1,0 +1,59 @@
+
+.navbar{
+    margin: 0 auto;
+    width: 100%;
+    height: 90px;
+}
+
+.image-caro {
+    filter: grayscale(100%);
+}
+
+/* .overlay {
+    background-image: url(/starter-code/img/overlay.png);
+    position: absolute;
+    width: 100%;
+    height: 687px;
+    left: 0px;
+    top: 90px;
+    z-index: 1;
+} */
+
+.container-three-columns{
+    width: 100%;
+    height: 400px;
+    background-color: #ed564b;;
+}
+.text-box{
+    margin: 50px 50px 20px 40px;
+    color: white;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+svg {
+   margin-bottom: 40px;
+}
+
+#sec3{
+    width: 100%;
+    height: 280px;
+   
+}
+footer{
+    width: 100%;
+    height: 90px;
+    background-color: blue;
+}
+
+.thumbnail-images{
+width: 300px;
+}
+
+
+
+
+
